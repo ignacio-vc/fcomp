@@ -1,0 +1,16 @@
+10/08/16
+Fisica Computacional
+
+Nuevo password para las computadoras es:
+Usuario: est 5
+Password: gpo3pmfc
+
+En Python:
+Los corchetes cuadrados [ ] siempre son para arreglos
+Los redondos siempre ( ) son para funciones
+El 'append' es costoso en memoria. 
+
+La nomenclatura de ls -al
+d - directorio
+rwx - Permisos. primeros 3 del usuario, segundos 3 del grupo, terceros 3 del administrador
+
